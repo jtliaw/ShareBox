@@ -10,6 +10,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
+--- 防毒网站没有病毒,自己可以到这一个网址看一看：https://www.virustotal.com/gui/home/upload --- 
+
 **Android 手机与任意电脑、手机之间的 Wi-Fi 高速文件传输工具 —— 另一端什么都不用安装。**
 
 ShareBox 把你的安卓手机变成一个小型文件服务器。电脑（Windows、Linux、macOS）或另一部手机只需要一个浏览器。它出自一位经常更换 Linux 发行版（Ubuntu、Debian 等）的用户，目的就是传文件时不必在电脑上装任何东西。
