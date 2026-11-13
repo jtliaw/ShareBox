@@ -8,9 +8,8 @@
 
 <p align="center">
 
-[English](README.md) | [简体中文](README.zh-CN.md)
-
 --- 防毒网站没有病毒,自己可以到这一个网址看一看：https://www.virustotal.com/gui/home/upload --- 
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 **Android 手机与任意电脑、手机之间的 Wi-Fi 高速文件传输工具 —— 另一端什么都不用安装。**
 
