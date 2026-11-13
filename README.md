@@ -8,7 +8,6 @@
 
 <p align="center">
 
---- 防毒网站没有病毒,自己可以到这一个网址看一看：https://www.virustotal.com/gui/home/upload --- 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 **Android 手机与任意电脑、手机之间的 Wi-Fi 高速文件传输工具 —— 另一端什么都不用安装。**
@@ -29,7 +28,7 @@ ShareBox 把你的安卓手机变成一个小型文件服务器。电脑（Windo
 - **深色主题**，手机 App 和网页都是。
 
 ## 安全
-
+--- 防毒网站没有病毒,自己可以到这一个网址看一看：https://www.virustotal.com/gui/home/upload --- 
 ShareBox 适合在可信的局域网内使用（家里的 Wi-Fi 或自己的热点）。
 
 - **每次启动服务都会生成新的随机 6 位访问码**，旧码和已登录过的浏览器立即失效。
