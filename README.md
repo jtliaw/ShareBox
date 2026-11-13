@@ -1,6 +1,12 @@
-<img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/fbdc3e1c-9b9b-401f-bfd7-e9d39e1ebabe" />
+<p align="center">
+ <img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/53750a85-6a69-4719-8780-f08d19f23c61" />
 
-# ShareBox
+</p>
+
+<h1 align="center">ShareBox</h1>
+
+<p align="center">
+
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 **Android 手机与任意电脑、手机之间的 Wi-Fi 高速文件传输工具 —— 另一端什么都不用安装。**
@@ -93,9 +99,15 @@ app/src/main/
 
 
 
-<img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/ed40d49e-5fee-40a8-b8ea-9b08c7c96745" />
+<p align="center">
+ <img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/53750a85-6a69-4719-8780-f08d19f23c61" />
 
-# ShareBox
+</p>
+
+<h1 align="center">ShareBox</h1>
+
+<p align="center">
+
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
