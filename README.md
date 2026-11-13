@@ -1,5 +1,6 @@
 <p align="center">
- <img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/53750a85-6a69-4719-8780-f08d19f23c61" />
+<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/f5eb03c2-3fe8-4436-b256-cfe41b28026b" />
+
 
 </p>
 
@@ -100,7 +101,8 @@ app/src/main/
 
 
 <p align="center">
- <img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/53750a85-6a69-4719-8780-f08d19f23c61" />
+ <img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/570943b5-a974-4f16-9926-fd59f6b81940" />
+
 
 </p>
 
