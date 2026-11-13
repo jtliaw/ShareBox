@@ -1,5 +1,6 @@
-# ShareBox
+<img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/fbdc3e1c-9b9b-401f-bfd7-e9d39e1ebabe" />
 
+# ShareBox
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 **Android 手机与任意电脑、手机之间的 Wi-Fi 高速文件传输工具 —— 另一端什么都不用安装。**
@@ -88,18 +89,11 @@ app/src/main/
 
 每个请求都需要访问码（`?k=` 或登录后的 Cookie）。路径始终限制在手机存储根目录内，`..` 越界会被拒绝。
 
-## 后续计划
-
-- 整个文件夹打包成 ZIP 下载
-- 支持下载断点续传（HTTP Range）
-- 可选的 HTTPS（自签名证书）
-- 手机对手机的二维码连接
-- WebDAV，让 Linux 文件管理器直接挂载手机
-- 按用户设置权限（如只允许下载）
-- 固定签名密钥，支持覆盖更新
 
 
 
+
+<img width="72" height="72" alt="ic_launcher" src="https://github.com/user-attachments/assets/ed40d49e-5fee-40a8-b8ea-9b08c7c96745" />
 
 # ShareBox
 
@@ -190,14 +184,4 @@ app/src/main/
 | `POST /api/delete?p=<path>` | delete a file or folder |
 
 Every request needs the access code (`?k=` or the login cookie). Paths are always resolved inside the phone's storage root; `..` escapes are rejected.
-
-## Roadmap
-
-- Download a whole folder as a ZIP
-- Resumable downloads (HTTP Range)
-- Optional HTTPS with a self-signed certificate
-- QR code for phone-to-phone connection
-- WebDAV so that Linux file managers can mount the phone
-- Per-user permissions (e.g. download-only)
-- Fixed signing key for in-place updates
 
